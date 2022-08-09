@@ -2,7 +2,7 @@
 
 /**
  * print_bin - prints a binary number.
- * @val: arguments.
+ * @ap: arguments.
  * Return: 1.
  */
 int print_bin(va_list ap)
